@@ -10,7 +10,8 @@
 Если фикс чего-то fix(модуль): название коммита
 
 Примеры:
-'''
+
+```
   feat(core): add abstract factory pattern
   fix(core): fix spawn in abstract factory when return instance was null
-'''
+```
